@@ -1,0 +1,162 @@
+html, body, #container
+{
+   width: 100%;
+   height: 100%;
+}
+body
+{
+   background-color: #000000;
+   color: #000000;
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 13px;
+   line-height: 1.1875;
+   margin: 0;
+   padding: 0;
+}
+#Picture1
+{
+   border: 0px solid #000000;
+   padding: 0;
+   -webkit-animation: push 1000ms linear 0ms infinite normal both;
+   -moz-animation: push 1000ms linear 0ms infinite normal both;
+   animation: push 1000ms linear 0ms infinite normal both;
+   -webkit-filter: hue-rotate(522deg) saturate(100%) hue-rotate(720deg) saturate(100%);
+   -moz-filter: hue-rotate(522deg) saturate(100%) hue-rotate(720deg) saturate(100%);
+   filter: hue-rotate(522deg) saturate(100%) hue-rotate(720deg) saturate(100%);
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#wb_Text1 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text1 div
+{
+   text-align: left;
+}
+#wb_Text2 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text2 div
+{
+   text-align: left;
+}
+#Image2
+{
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#wb_Text4 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text4 div
+{
+   text-align: left;
+}
+#wb_Text5 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text5 div
+{
+   text-align: left;
+}
+#Image1
+{
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#wb_Text3 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text3 div
+{
+   text-align: left;
+}
+#wb_Text6 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text6 div
+{
+   text-align: left;
+}
+#wb_Text7 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text7 div
+{
+   text-align: left;
+}
+#wb_Text8 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text8 div
+{
+   text-align: left;
+}
+#MediaPlayer1
+{
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
